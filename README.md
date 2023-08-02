@@ -6,7 +6,7 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
   - 
 - <b>Power BI</b>
-  - [Sales Analysis (Drillthrough Project)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b></i>
+  - [Sales Analysis (Drillthrough Project)](https://github.com/Rushikeshvmane/Sales-Analysis-Drillthrough-Project-/blob/main/README.md) <b></i>
   - 
 - <b>Tableau</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
