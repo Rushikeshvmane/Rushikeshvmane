@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Projects:</h2>
 
 - <b>SQL</b>
-  - [HR Analysis ](https://github.com/Rushikeshvmane/Sales-Analysis-Drillthrough-Project-/blob/main/README.md) <b></i>
+  - [HR Analysis ](https://github.com/Rushikeshvmane/HR-Analysis/blob/main/README.md) <b></i>
   - 
 - <b>Power BI</b>
   - [Sales Analysis (Drillthrough Project)](https://github.com/Rushikeshvmane/Sales-Analysis-Drillthrough-Project-/blob/main/README.md) <b></i>
