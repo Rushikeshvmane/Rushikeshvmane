@@ -8,11 +8,11 @@
 - <b>Power BI</b>
   - [Sales Analysis (Drillthrough Project)](https://github.com/Rushikeshvmane/Sales-Analysis-Drillthrough-Project-/blob/main/README.md) <b></i>
   -  [Loan Lending Data Analysis ](https://github.com/Rushikeshvmane/Loan-Lending-Data-Analysis/blob/main/README.md) <b></i>                                       
-- <b>Tableau</b>
+- <b>Excel</b>
   - 
   - 
 
-- <b>Python</b>
+- <b>Tableau</b>
   - 
   - 
 <h2>🎓📜 Courses/ Certifications</h2>
