@@ -4,7 +4,7 @@
 
 - <b>SQL</b>     
   - [HR Analysis ](https://github.com/Rushikeshvmane/HR-Analysis/blob/main/README.md) <b></i>
-  - [Walmart Sales Analysis ]() <b></i>
+  - [Walmart Sales Analysis ]( https://github.com/Rushikeshvmane/Walmart-sales-analysis-/blob/main/README.md) <b></i>
     
 - <b>Power BI</b>
   - [Sales Analysis (Drillthrough Project)](https://github.com/Rushikeshvmane/Sales-Analysis-Drillthrough-Project-/blob/main/README.md) <b></i>
