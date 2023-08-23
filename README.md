@@ -12,9 +12,7 @@
 - <b>Excel</b>
   -  [Hotel Booking Cancellation Analysis ](https://github.com/Rushikeshvmane/Hotel-Booking-Cancellation-Analysis/blob/main/README.md) <b></i>  
 
-- <b>Tableau</b>
-  - 
-  - 
+
 <h2>🎓📜 Courses/ Certifications</h2>
 
 - [Data Analyst Course]
