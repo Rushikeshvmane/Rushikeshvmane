@@ -16,7 +16,6 @@
 <h2>🎓📜 Courses/ Certifications</h2>
 
 - [Data Analyst Course]
-- 
 
 <h2> 🤳 Connect with me:</h2>
 
