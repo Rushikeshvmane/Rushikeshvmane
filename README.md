@@ -1,4 +1,4 @@
-<h1>Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Rushikesh! <br/><a> Data Analyst</a>
+<h1>Hi, I'm Rushikesh! <br/><a> Data Analyst</a>
 
 <h2>Analytical thinker leveraging data to solve problems and guide strategic growth using skills like SQL, PowerBI, Tableau, Excel, Python</h2>
 
