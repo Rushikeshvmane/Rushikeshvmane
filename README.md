@@ -1,6 +1,6 @@
 <h1>Hi, I'm Rushikesh! <br/><a> Data Analyst</a>
 
-<h2>Analytical thinker leveraging data to solve problems and guide strategic growth using skills like SQL, PowerBI, Tableau, Excel, Python</h2>
+<h2>Analytical thinker leveraging data to solve problems and guide strategic growth</h2>
 
 <h2>👨‍💻 Data Projects:</h2>
 
