@@ -3,14 +3,15 @@
 <h2>Analytical thinker leveraging data to solve problems and guide strategic growth</h2>
 
 <h2>👨‍💻 Data Projects:</h2>
-
-- <b>SQL</b>     
-  - [HR Analysis ](https://github.com/Rushikeshvmane/HR-Analysis/blob/main/README.md) <b></i>
-  - [Walmart Sales Analysis ]( https://github.com/Rushikeshvmane/Walmart-sales-analysis-/blob/main/README.md) <b></i>
     
 - <b>Power BI</b>
   - [Sales Analysis (Drillthrough Project)](https://github.com/Rushikeshvmane/Sales-Analysis-Drillthrough-Project-/blob/main/README.md) <b></i>
-  -  [Loan Lending Data Analysis ](https://github.com/Rushikeshvmane/Loan-Lending-Data-Analysis/blob/main/README.md) <b></i>                                       
+  -  [Loan Lending Data Analysis ](https://github.com/Rushikeshvmane/Loan-Lending-Data-Analysis/blob/main/README.md) <b></i>
+
+ - <b>SQL</b>     
+    - [HR Analysis ](https://github.com/Rushikeshvmane/HR-Analysis/blob/main/README.md) <b></i>
+    - [Walmart Sales Analysis ]( https://github.com/Rushikeshvmane/Walmart-sales-analysis-/blob/main/README.md) <b></i>
+  
 - <b>Excel</b>
   -  [Hotel Booking Cancellation Analysis ](https://github.com/Rushikeshvmane/Hotel-Booking-Cancellation-Analysis/blob/main/README.md) <b></i>  
 
