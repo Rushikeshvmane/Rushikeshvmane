@@ -5,7 +5,7 @@
 <h2>👨‍💻 Data Projects:</h2>
     
 - <b>Python</b>
-  - 
+  - [Hotel Booking Cancellation Analysis ]
   
 - <b>Power BI</b>
   - [Sales Analysis (Drillthrough Project)](https://github.com/Rushikeshvmane/Sales-Analysis-Drillthrough-Project-/blob/main/README.md) <b></i>
@@ -16,7 +16,7 @@
     - [Walmart Sales Analysis ]( https://github.com/Rushikeshvmane/Walmart-sales-analysis-/blob/main/README.md) <b></i>
   
 - <b>Excel</b>
-  -  [Hotel Booking Cancellation Analysis ](https://github.com/Rushikeshvmane/Hotel-Booking-Cancellation-Analysis/blob/main/README.md) <b></i>  
+  -   
 
 
 <h2>🎓📜 Courses/ Certifications</h2>
