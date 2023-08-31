@@ -4,6 +4,9 @@
 
 <h2>👨‍💻 Data Projects:</h2>
     
+- <b>Python</b>
+  - 
+  
 - <b>Power BI</b>
   - [Sales Analysis (Drillthrough Project)](https://github.com/Rushikeshvmane/Sales-Analysis-Drillthrough-Project-/blob/main/README.md) <b></i>
   -  [Loan Lending Data Analysis ](https://github.com/Rushikeshvmane/Loan-Lending-Data-Analysis/blob/main/README.md) <b></i>
