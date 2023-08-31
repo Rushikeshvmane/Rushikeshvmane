@@ -5,7 +5,7 @@
 <h2>👨‍💻 Data Projects:</h2>
     
 - <b>Python</b>
-  - [Hotel Booking Cancellation Analysis ]
+  - [Hotel Booking Cancellation Analysis](https://github.com/Rushikeshvmane/Hotel-Booking-Cancellation-Analysis) <b></i>
   
 - <b>Power BI</b>
   - [Sales Analysis (Drillthrough Project)](https://github.com/Rushikeshvmane/Sales-Analysis-Drillthrough-Project-/blob/main/README.md) <b></i>
